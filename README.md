@@ -7,4 +7,4 @@ Unzip them and place them in the checked out sound folder of this repo.
 
 ## Run
 
-ruby ./timer.rb
+    ruby ./timer.rb
